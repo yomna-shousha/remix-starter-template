@@ -16,7 +16,7 @@ Build a fullstack Remix application, deployed to Cloudflare Workers. Edit 2
 Run the dev server:
 
 ```sh
-npm run dev
+npm run devfndslsd
 ```
 
 To run Wrangler:
