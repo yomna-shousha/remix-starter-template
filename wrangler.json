@@ -1,5 +1,5 @@
 {
-  "name": "test-painful-worker",
+  "name": "wrong-name",
   "compatibility_date": "2025-10-08",
   "main": "./server.ts",
   "assets": {
