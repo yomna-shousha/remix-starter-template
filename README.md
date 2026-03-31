@@ -10,7 +10,7 @@ Build a fullstack Remix application, deployed to Cloudflare Workers. Edit 2
 - 📖 [Remix Cloudflare docs](https://remix.run/guides/vite#cloudflare)
 
 <!-- dash-content-end -->
-
+edit
 ## Development
 
 Run the dev server:
