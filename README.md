@@ -4,19 +4,19 @@
 
 <!-- dash-content-start -->
 
-Build a fullstack Remix application, deployed to Cloudflare Workers.
+Build a fullstack Remix application, deployed to Cloudflare Workers. Edit 2
 
 - 📖 [Remix docs](https://remix.run/docs)
 - 📖 [Remix Cloudflare docs](https://remix.run/guides/vite#cloudflare)
 
 <!-- dash-content-end -->
-
+edit
 ## Development
 
 Run the dev server:
 
 ```sh
-npm run dev
+npm run devfndslsd
 ```
 
 To run Wrangler:
@@ -34,7 +34,8 @@ Generate types for your Cloudflare bindings in `wrangler.toml`:
 npm run typegen
 ```
 
-You will need to rerun typegen whenever you make changes to `wrangler.toml`.
+You will need to rerun typegen whenever you make changes to `wrangler.toml`. edit here 
+preview commit 
 
 ## Deployment
 
