@@ -27,6 +27,7 @@ npm start
 ```
 
 ## Typegen
+preview edit 
 
 Generate types for your Cloudflare bindings in `wrangler.toml`:
 
